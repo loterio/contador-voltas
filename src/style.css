@@ -1,0 +1,42 @@
+@import url('//fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+}
+
+.voltas {
+    font-size: 28px;
+}
+.voltas span {
+    font-size: 156px;
+}
+
+.tempo {
+    font-size: 26px;
+}
+.tempo span {
+    font-size: 64px;
+}
+
+button {
+    padding: 22px 34px 22px 34px;
+    margin: 0px 10px 0px 10px;
+    font-size: 24px;
+    font-weight: bold;
+
+    background-color: rgb(37, 137, 231);
+    border: none;
+    border-radius: 6px;
+}
+.act {
+    font-size: 68px;
+    padding: 0px;
+    
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 100%;
+}
